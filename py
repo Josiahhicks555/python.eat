@@ -7,13 +7,13 @@ answer = ""
 random_number = random.randint(1,6)
 
 if random_number == 1:
-    answer = "Pizza"
+    answer = "Pizza" + (" - (Thats my #3 favorite food)")
 
 elif random_number == 2:
-    answer = "Chicken"
+    answer = "Chicken" + (" - (Thats my #1 favorite food)")
     
 elif random_number == 3:
-    answer = "Cheeseburger"
+    answer = "Cheeseburger" + (" - (Thats my #2 favorite food) ")
 
 elif random_number == 4:
     answer = "Fish"
