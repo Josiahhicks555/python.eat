@@ -27,5 +27,5 @@ elif random_number == 6:
 else:
     answer = "Error"
 
-print(name + "asks: " + question)
+print(name + " asks: " + question)
 print("You want to eat: " + answer)
